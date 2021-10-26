@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;web-customer-tracker-aop&apos;&#x0D;&#x0A;- Original project: &apos;web-customer-tracker-aop&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     spring-aop-5.3.11.jar&#x0D;&#x0A;     spring-beans-5.3.11.jar&#x0D;&#x0A;     spring-context-5.3.11.jar&#x0D;&#x0A;     spring-core-5.3.11.jar&#x0D;&#x0A;     spring-expression-5.3.11.jar" description="Delete elements" element1="lib/spring-aop-5.3.11.jar" element2="lib/spring-core-5.3.11.jar" element3="lib/spring-beans-5.3.11.jar" element4="lib/spring-context-5.3.11.jar" element5="lib/spring-expression-5.3.11.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1634585432584" subPackages="false" version="1.0"/>
+</session>

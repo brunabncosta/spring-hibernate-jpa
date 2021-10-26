@@ -1,0 +1,9 @@
+package com.luv2code.springboot.controller;
+
+public class DemoController {
+
+	public DemoController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

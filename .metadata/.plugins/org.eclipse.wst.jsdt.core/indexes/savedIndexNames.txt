@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\dev\cursos\darby\curso-crud\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3464423058.index
